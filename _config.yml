@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hello there
+title: I don't like your tweed, sir!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello there | My name is Dakota, and I'm learning about Jekyll and AWS Amplify.
